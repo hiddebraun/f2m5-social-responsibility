@@ -1,3 +1,5 @@
+Hoi
+
 ## MVC starter project
 
 Gebruik dit voorbeeld project als uitfgangspunt voor het huidige project. Hiermee leer je werken volgens de MVC structuur (model view controller).
